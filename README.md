@@ -1,6 +1,7 @@
 # Meeting_Mind
 Summarizes meetings (Speech to text)
 
+
 # Overview
 
 Meeting Mind is a Python-based application that summarizes meetings by generating a transcript from an uploaded .mp3 file. It provides a .txt file download option for users and allows querying the generated transcript to extract relevant information efficiently.
